@@ -5,12 +5,12 @@
 <!--   <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/kimhyoeun0101-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
   
 </p>
-<p>
+<!-- <p>
   Hello I am a new developer specializing in machine learning.<br/>
   We are working on it based on Python DJango.<br/><br/>
   I enjoy squash, Baduk and computer game. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
-</p>
+</p> -->
 
 <!--    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimhyoeun0101&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyoeun0101&layout=compact&hide_border=true&theme=white) -->
   
